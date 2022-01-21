@@ -1,6 +1,5 @@
-"# myrepo1
+# myrepo1
 
-This line is from RStudio
-
+## This line is from RStudio
 
 Hello World!
