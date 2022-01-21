@@ -5,3 +5,5 @@
 Hello World!
 
 Hello world again!
+
+Stage -> Commit -> push
